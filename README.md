@@ -2,6 +2,12 @@
 
 A Python project demonstrating various AI algorithms including search algorithms and machine learning classifiers with both **interactive command-line interface** and **web application**.
 
+## 🌐 Live Demo
+
+**👉 [Try the Web App Online](https://ai-project-29salahmo.streamlit.app)** *(Deploy on Streamlit Cloud to activate this link)*
+
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://ai-project-29salahmo.streamlit.app)
+
 ## 🚀 Features
 
 - **Uniform Cost Search**: Finds the shortest path in a weighted graph
@@ -153,7 +159,7 @@ This project is open source and available under the MIT License.
 
 ## 👤 Author
 
-Your Name
+**Salah El Dein** - [@29SalahMo](https://github.com/29SalahMo)
 
 ## 🙏 Acknowledgments
 
